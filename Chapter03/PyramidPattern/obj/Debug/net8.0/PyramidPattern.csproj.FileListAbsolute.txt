@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/PyramidPattern/bin/Debug/net8.0/PyramidPattern
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/PyramidPattern/bin/Debug/net8.0/PyramidPattern.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/PyramidPattern/bin/Debug/net8.0/PyramidPattern.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/PyramidPattern/bin/Debug/net8.0/PyramidPattern.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/PyramidPattern/bin/Debug/net8.0/PyramidPattern.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/PyramidPattern/obj/Debug/net8.0/PyramidPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/PyramidPattern/obj/Debug/net8.0/PyramidPattern.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/PyramidPattern/obj/Debug/net8.0/PyramidPattern.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/PyramidPattern/obj/Debug/net8.0/PyramidPattern.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/PyramidPattern/obj/Debug/net8.0/PyramidPattern.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/PyramidPattern/obj/Debug/net8.0/PyramidPattern.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/PyramidPattern/obj/Debug/net8.0/refint/PyramidPattern.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/PyramidPattern/obj/Debug/net8.0/PyramidPattern.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/PyramidPattern/obj/Debug/net8.0/PyramidPattern.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/PyramidPattern/obj/Debug/net8.0/ref/PyramidPattern.dll

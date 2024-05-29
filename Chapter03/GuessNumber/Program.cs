@@ -1,0 +1,42 @@
+﻿using System;
+
+namespace Chapter03
+{
+    class Guessnumber
+    {
+        static void Main(string[] args)
+        {
+            
+            int correctNumber = new Random().Next(3) + 1;
+            Console.WriteLine("Guess the number between 1 and 3:");
+
+            string userInput = Console.ReadLine();
+            if (int.TryParse(userInput, out int guessedNumber))
+            {
+                if (guessedNumber < 1 || guessedNumber > 3)
+                {
+                    Console.WriteLine("Your guess is out of the valid range. Please guess a number between 1 and 3.");
+                }
+                else
+                {
+                    if (guessedNumber < correctNumber)
+                    {
+                        Console.WriteLine("Your guess is too low.");
+                    }
+                    else if (guessedNumber > correctNumber)
+                    {
+                        Console.WriteLine("Your guess is too high.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Correct! You guessed the number.");
+                    }
+                }
+            }
+            else
+            {
+                Console.WriteLine("Invalid input. Please enter an integer number.");
+            }
+        }
+    }
+}

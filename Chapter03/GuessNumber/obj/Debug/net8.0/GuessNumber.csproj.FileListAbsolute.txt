@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GuessNumber/bin/Debug/net8.0/GuessNumber
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GuessNumber/bin/Debug/net8.0/GuessNumber.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GuessNumber/bin/Debug/net8.0/GuessNumber.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GuessNumber/bin/Debug/net8.0/GuessNumber.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GuessNumber/bin/Debug/net8.0/GuessNumber.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GuessNumber/obj/Debug/net8.0/GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GuessNumber/obj/Debug/net8.0/GuessNumber.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GuessNumber/obj/Debug/net8.0/GuessNumber.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GuessNumber/obj/Debug/net8.0/GuessNumber.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GuessNumber/obj/Debug/net8.0/GuessNumber.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GuessNumber/obj/Debug/net8.0/GuessNumber.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GuessNumber/obj/Debug/net8.0/refint/GuessNumber.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GuessNumber/obj/Debug/net8.0/GuessNumber.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GuessNumber/obj/Debug/net8.0/GuessNumber.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GuessNumber/obj/Debug/net8.0/ref/GuessNumber.dll

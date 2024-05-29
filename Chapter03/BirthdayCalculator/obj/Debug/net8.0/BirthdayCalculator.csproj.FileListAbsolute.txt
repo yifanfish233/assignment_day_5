@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/BirthdayCalculator/bin/Debug/net8.0/BirthdayCalculator
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/BirthdayCalculator/bin/Debug/net8.0/BirthdayCalculator.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/BirthdayCalculator/bin/Debug/net8.0/BirthdayCalculator.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/BirthdayCalculator/bin/Debug/net8.0/BirthdayCalculator.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/BirthdayCalculator/bin/Debug/net8.0/BirthdayCalculator.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/BirthdayCalculator/obj/Debug/net8.0/BirthdayCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/BirthdayCalculator/obj/Debug/net8.0/BirthdayCalculator.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/BirthdayCalculator/obj/Debug/net8.0/BirthdayCalculator.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/BirthdayCalculator/obj/Debug/net8.0/BirthdayCalculator.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/BirthdayCalculator/obj/Debug/net8.0/BirthdayCalculator.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/BirthdayCalculator/obj/Debug/net8.0/BirthdayCalculator.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/BirthdayCalculator/obj/Debug/net8.0/refint/BirthdayCalculator.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/BirthdayCalculator/obj/Debug/net8.0/BirthdayCalculator.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/BirthdayCalculator/obj/Debug/net8.0/BirthdayCalculator.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/BirthdayCalculator/obj/Debug/net8.0/ref/BirthdayCalculator.dll

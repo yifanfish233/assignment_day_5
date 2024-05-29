@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/precedingProblem/bin/Debug/net8.0/precedingProblem
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/precedingProblem/bin/Debug/net8.0/precedingProblem.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/precedingProblem/bin/Debug/net8.0/precedingProblem.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/precedingProblem/bin/Debug/net8.0/precedingProblem.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/precedingProblem/bin/Debug/net8.0/precedingProblem.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/precedingProblem/obj/Debug/net8.0/precedingProblem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/precedingProblem/obj/Debug/net8.0/precedingProblem.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/precedingProblem/obj/Debug/net8.0/precedingProblem.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/precedingProblem/obj/Debug/net8.0/precedingProblem.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/precedingProblem/obj/Debug/net8.0/precedingProblem.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/precedingProblem/obj/Debug/net8.0/precedingProblem.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/precedingProblem/obj/Debug/net8.0/refint/precedingProblem.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/precedingProblem/obj/Debug/net8.0/precedingProblem.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/precedingProblem/obj/Debug/net8.0/precedingProblem.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/precedingProblem/obj/Debug/net8.0/ref/precedingProblem.dll

@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/bin/Debug/net8.0/Exercise03
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/bin/Debug/net8.0/Exercise03.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/bin/Debug/net8.0/Exercise03.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/bin/Debug/net8.0/Exercise03.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/bin/Debug/net8.0/Exercise03.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/obj/Debug/net8.0/Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/obj/Debug/net8.0/Exercise03.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/obj/Debug/net8.0/Exercise03.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/obj/Debug/net8.0/Exercise03.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/obj/Debug/net8.0/Exercise03.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/obj/Debug/net8.0/Exercise03.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/obj/Debug/net8.0/refint/Exercise03.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/obj/Debug/net8.0/Exercise03.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/obj/Debug/net8.0/Exercise03.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/obj/Debug/net8.0/ref/Exercise03.dll

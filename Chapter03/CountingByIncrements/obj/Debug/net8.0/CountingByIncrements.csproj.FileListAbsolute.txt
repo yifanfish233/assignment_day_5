@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/CountingByIncrements/bin/Debug/net8.0/CountingByIncrements
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/CountingByIncrements/bin/Debug/net8.0/CountingByIncrements.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/CountingByIncrements/bin/Debug/net8.0/CountingByIncrements.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/CountingByIncrements/bin/Debug/net8.0/CountingByIncrements.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/CountingByIncrements/bin/Debug/net8.0/CountingByIncrements.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/CountingByIncrements/obj/Debug/net8.0/CountingByIncrements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/CountingByIncrements/obj/Debug/net8.0/CountingByIncrements.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/CountingByIncrements/obj/Debug/net8.0/CountingByIncrements.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/CountingByIncrements/obj/Debug/net8.0/CountingByIncrements.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/CountingByIncrements/obj/Debug/net8.0/CountingByIncrements.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/CountingByIncrements/obj/Debug/net8.0/CountingByIncrements.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/CountingByIncrements/obj/Debug/net8.0/refint/CountingByIncrements.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/CountingByIncrements/obj/Debug/net8.0/CountingByIncrements.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/CountingByIncrements/obj/Debug/net8.0/CountingByIncrements.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/CountingByIncrements/obj/Debug/net8.0/ref/CountingByIncrements.dll

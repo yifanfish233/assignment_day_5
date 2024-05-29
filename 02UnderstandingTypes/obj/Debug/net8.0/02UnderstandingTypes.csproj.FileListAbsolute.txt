@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/02UnderstandingTypes/bin/Debug/net8.0/02UnderstandingTypes.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/02UnderstandingTypes/obj/Debug/net8.0/refint/02UnderstandingTypes.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/02UnderstandingTypes/obj/Debug/net8.0/02UnderstandingTypes.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/02UnderstandingTypes/obj/Debug/net8.0/ref/02UnderstandingTypes.dll

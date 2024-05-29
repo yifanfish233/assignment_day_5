@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GreetingBasedOnTime/bin/Debug/net8.0/GreetingBasedOnTime
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GreetingBasedOnTime/bin/Debug/net8.0/GreetingBasedOnTime.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GreetingBasedOnTime/bin/Debug/net8.0/GreetingBasedOnTime.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GreetingBasedOnTime/bin/Debug/net8.0/GreetingBasedOnTime.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GreetingBasedOnTime/bin/Debug/net8.0/GreetingBasedOnTime.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GreetingBasedOnTime/obj/Debug/net8.0/GreetingBasedOnTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GreetingBasedOnTime/obj/Debug/net8.0/GreetingBasedOnTime.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GreetingBasedOnTime/obj/Debug/net8.0/GreetingBasedOnTime.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GreetingBasedOnTime/obj/Debug/net8.0/GreetingBasedOnTime.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GreetingBasedOnTime/obj/Debug/net8.0/GreetingBasedOnTime.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GreetingBasedOnTime/obj/Debug/net8.0/GreetingBasedOnTime.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GreetingBasedOnTime/obj/Debug/net8.0/refint/GreetingBasedOnTime.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GreetingBasedOnTime/obj/Debug/net8.0/GreetingBasedOnTime.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GreetingBasedOnTime/obj/Debug/net8.0/GreetingBasedOnTime.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Chapter03/GreetingBasedOnTime/obj/Debug/net8.0/ref/GreetingBasedOnTime.dll
