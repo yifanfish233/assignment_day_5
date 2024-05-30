@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/MostFrequentNumber/bin/Debug/net8.0/MostFrequentNumber
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/MostFrequentNumber/bin/Debug/net8.0/MostFrequentNumber.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/MostFrequentNumber/bin/Debug/net8.0/MostFrequentNumber.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/MostFrequentNumber/bin/Debug/net8.0/MostFrequentNumber.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/MostFrequentNumber/bin/Debug/net8.0/MostFrequentNumber.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/MostFrequentNumber/obj/Debug/net8.0/MostFrequentNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/MostFrequentNumber/obj/Debug/net8.0/MostFrequentNumber.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/MostFrequentNumber/obj/Debug/net8.0/MostFrequentNumber.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/MostFrequentNumber/obj/Debug/net8.0/MostFrequentNumber.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/MostFrequentNumber/obj/Debug/net8.0/MostFrequentNumber.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/MostFrequentNumber/obj/Debug/net8.0/MostFrequentNumber.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/MostFrequentNumber/obj/Debug/net8.0/refint/MostFrequentNumber.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/MostFrequentNumber/obj/Debug/net8.0/MostFrequentNumber.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/MostFrequentNumber/obj/Debug/net8.0/MostFrequentNumber.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/MostFrequentNumber/obj/Debug/net8.0/ref/MostFrequentNumber.dll

@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/PrimeNumbersInRange/bin/Debug/net8.0/PrimeNumbersInRange
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/PrimeNumbersInRange/bin/Debug/net8.0/PrimeNumbersInRange.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/PrimeNumbersInRange/bin/Debug/net8.0/PrimeNumbersInRange.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/PrimeNumbersInRange/bin/Debug/net8.0/PrimeNumbersInRange.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/PrimeNumbersInRange/bin/Debug/net8.0/PrimeNumbersInRange.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/PrimeNumbersInRange/obj/Debug/net8.0/PrimeNumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/PrimeNumbersInRange/obj/Debug/net8.0/PrimeNumbersInRange.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/PrimeNumbersInRange/obj/Debug/net8.0/PrimeNumbersInRange.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/PrimeNumbersInRange/obj/Debug/net8.0/PrimeNumbersInRange.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/PrimeNumbersInRange/obj/Debug/net8.0/PrimeNumbersInRange.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/PrimeNumbersInRange/obj/Debug/net8.0/PrimeNumbersInRange.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/PrimeNumbersInRange/obj/Debug/net8.0/refint/PrimeNumbersInRange.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/PrimeNumbersInRange/obj/Debug/net8.0/PrimeNumbersInRange.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/PrimeNumbersInRange/obj/Debug/net8.0/PrimeNumbersInRange.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/PrimeNumbersInRange/obj/Debug/net8.0/ref/PrimeNumbersInRange.dll

@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ExtractPalindromes/bin/Debug/net8.0/ExtractPalindromes
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ExtractPalindromes/bin/Debug/net8.0/ExtractPalindromes.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ExtractPalindromes/bin/Debug/net8.0/ExtractPalindromes.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ExtractPalindromes/bin/Debug/net8.0/ExtractPalindromes.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ExtractPalindromes/bin/Debug/net8.0/ExtractPalindromes.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ExtractPalindromes/obj/Debug/net8.0/ExtractPalindromes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ExtractPalindromes/obj/Debug/net8.0/ExtractPalindromes.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ExtractPalindromes/obj/Debug/net8.0/ExtractPalindromes.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ExtractPalindromes/obj/Debug/net8.0/ExtractPalindromes.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ExtractPalindromes/obj/Debug/net8.0/ExtractPalindromes.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ExtractPalindromes/obj/Debug/net8.0/ExtractPalindromes.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ExtractPalindromes/obj/Debug/net8.0/refint/ExtractPalindromes.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ExtractPalindromes/obj/Debug/net8.0/ExtractPalindromes.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ExtractPalindromes/obj/Debug/net8.0/ExtractPalindromes.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ExtractPalindromes/obj/Debug/net8.0/ref/ExtractPalindromes.dll

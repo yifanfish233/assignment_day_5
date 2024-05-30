@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/URLParser/bin/Debug/net8.0/URLParser
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/URLParser/bin/Debug/net8.0/URLParser.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/URLParser/bin/Debug/net8.0/URLParser.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/URLParser/bin/Debug/net8.0/URLParser.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/URLParser/bin/Debug/net8.0/URLParser.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/URLParser/obj/Debug/net8.0/URLParser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/URLParser/obj/Debug/net8.0/URLParser.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/URLParser/obj/Debug/net8.0/URLParser.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/URLParser/obj/Debug/net8.0/URLParser.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/URLParser/obj/Debug/net8.0/URLParser.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/URLParser/obj/Debug/net8.0/URLParser.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/URLParser/obj/Debug/net8.0/refint/URLParser.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/URLParser/obj/Debug/net8.0/URLParser.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/URLParser/obj/Debug/net8.0/URLParser.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/URLParser/obj/Debug/net8.0/ref/URLParser.dll

@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ReverseWordsInSentence/bin/Debug/net8.0/ReverseWordsInSentence
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ReverseWordsInSentence/bin/Debug/net8.0/ReverseWordsInSentence.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ReverseWordsInSentence/bin/Debug/net8.0/ReverseWordsInSentence.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ReverseWordsInSentence/bin/Debug/net8.0/ReverseWordsInSentence.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ReverseWordsInSentence/bin/Debug/net8.0/ReverseWordsInSentence.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ReverseWordsInSentence/obj/Debug/net8.0/ReverseWordsInSentence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ReverseWordsInSentence/obj/Debug/net8.0/ReverseWordsInSentence.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ReverseWordsInSentence/obj/Debug/net8.0/ReverseWordsInSentence.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ReverseWordsInSentence/obj/Debug/net8.0/ReverseWordsInSentence.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ReverseWordsInSentence/obj/Debug/net8.0/ReverseWordsInSentence.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ReverseWordsInSentence/obj/Debug/net8.0/ReverseWordsInSentence.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ReverseWordsInSentence/obj/Debug/net8.0/refint/ReverseWordsInSentence.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ReverseWordsInSentence/obj/Debug/net8.0/ReverseWordsInSentence.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ReverseWordsInSentence/obj/Debug/net8.0/ReverseWordsInSentence.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ReverseWordsInSentence/obj/Debug/net8.0/ref/ReverseWordsInSentence.dll

@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ArrayRotationSum/bin/Debug/net8.0/ArrayRotationSum
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ArrayRotationSum/bin/Debug/net8.0/ArrayRotationSum.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ArrayRotationSum/bin/Debug/net8.0/ArrayRotationSum.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ArrayRotationSum/bin/Debug/net8.0/ArrayRotationSum.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ArrayRotationSum/bin/Debug/net8.0/ArrayRotationSum.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ArrayRotationSum/obj/Debug/net8.0/ArrayRotationSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ArrayRotationSum/obj/Debug/net8.0/ArrayRotationSum.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ArrayRotationSum/obj/Debug/net8.0/ArrayRotationSum.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ArrayRotationSum/obj/Debug/net8.0/ArrayRotationSum.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ArrayRotationSum/obj/Debug/net8.0/ArrayRotationSum.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ArrayRotationSum/obj/Debug/net8.0/ArrayRotationSum.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ArrayRotationSum/obj/Debug/net8.0/refint/ArrayRotationSum.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ArrayRotationSum/obj/Debug/net8.0/ArrayRotationSum.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ArrayRotationSum/obj/Debug/net8.0/ArrayRotationSum.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ArrayRotationSum/obj/Debug/net8.0/ref/ArrayRotationSum.dll

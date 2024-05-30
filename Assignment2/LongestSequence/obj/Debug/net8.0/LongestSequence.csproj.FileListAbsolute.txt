@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/LongestSequence/bin/Debug/net8.0/LongestSequence
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/LongestSequence/bin/Debug/net8.0/LongestSequence.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/LongestSequence/bin/Debug/net8.0/LongestSequence.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/LongestSequence/bin/Debug/net8.0/LongestSequence.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/LongestSequence/bin/Debug/net8.0/LongestSequence.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/LongestSequence/obj/Debug/net8.0/LongestSequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/LongestSequence/obj/Debug/net8.0/LongestSequence.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/LongestSequence/obj/Debug/net8.0/LongestSequence.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/LongestSequence/obj/Debug/net8.0/LongestSequence.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/LongestSequence/obj/Debug/net8.0/LongestSequence.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/LongestSequence/obj/Debug/net8.0/LongestSequence.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/LongestSequence/obj/Debug/net8.0/refint/LongestSequence.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/LongestSequence/obj/Debug/net8.0/LongestSequence.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/LongestSequence/obj/Debug/net8.0/LongestSequence.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/LongestSequence/obj/Debug/net8.0/ref/LongestSequence.dll

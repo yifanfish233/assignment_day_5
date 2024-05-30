@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountingByIncrements")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b3943980d7327cacd0f6eead9144354bb741aff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08b3f94991839c7dca276aed33f43a426b5e17fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountingByIncrements")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountingByIncrements")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

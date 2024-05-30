@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ArrayRotationSum/1.0.0": {
+        "runtime": {
+          "ArrayRotationSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayRotationSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ListManager/bin/Debug/net8.0/ListManager
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ListManager/bin/Debug/net8.0/ListManager.deps.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ListManager/bin/Debug/net8.0/ListManager.runtimeconfig.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ListManager/bin/Debug/net8.0/ListManager.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ListManager/bin/Debug/net8.0/ListManager.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ListManager/obj/Debug/net8.0/ListManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ListManager/obj/Debug/net8.0/ListManager.AssemblyInfoInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ListManager/obj/Debug/net8.0/ListManager.AssemblyInfo.cs
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ListManager/obj/Debug/net8.0/ListManager.csproj.CoreCompileInputs.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ListManager/obj/Debug/net8.0/ListManager.sourcelink.json
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ListManager/obj/Debug/net8.0/ListManager.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ListManager/obj/Debug/net8.0/refint/ListManager.dll
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ListManager/obj/Debug/net8.0/ListManager.pdb
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ListManager/obj/Debug/net8.0/ListManager.genruntimeconfig.cache
+/Users/andyfish/Desktop/antra/dotnet/assignment_day_5/Assignment2/ListManager/obj/Debug/net8.0/ref/ListManager.dll
